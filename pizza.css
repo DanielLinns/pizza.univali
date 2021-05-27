@@ -1,0 +1,12 @@
+p strong {
+    color: rgb(204, 35, 35);
+}
+
+#destaques {
+    background-color: rgb(202, 40, 40);
+}
+
+#contato{
+    background-color: #212529;
+    color: white;
+}
